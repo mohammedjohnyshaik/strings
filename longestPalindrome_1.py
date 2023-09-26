@@ -12,7 +12,7 @@ def longestPalindrome(s):
     return longest
 s1 = "babad"
 result1 = longestPalindrome(s1)
-print(result1)  # Output: "bab" or "aba"
+print(result1)
 s2 = "cbbd"
 result2 = longestPalindrome(s2)
-print(result2)  # Output: "bb"
+print(result2)
